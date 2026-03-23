@@ -56,9 +56,9 @@ Redes sociales
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: Node.js / Python (opcional)
+Backend: Python
 
-Base de Datos: MySQL o MongoDB
+Base de Datos: MySQL
 
 Funcionalidades
 
