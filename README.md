@@ -1,8 +1,8 @@
 # Conoce-a-tu-artista
-Repositorio de conoce a tu artista
+
 Este proyecto consiste en el desarrollo de un sitio web tipo blog enfocado en un festival de música. Su objetivo es proporcionar a los usuarios información relevante sobre el evento, incluyendo artistas, horarios, noticias y detalles generales, todo en una plataforma atractiva y fácil de usar.
 
-Objetivos
+-Objetivos
 
 Informar a los usuarios sobre el festival
 
@@ -12,21 +12,21 @@ Publicar noticias y contenido relacionado
 
 Mejorar la experiencia del usuario con un diseño intuitivo
 
-Estructura del Proyecto
+-Estructura del Proyecto
 
-Inicio
+--Inicio
 
 Presentación del festival
 
 Noticias destacadas
 
-Artistas
+--Artistas
 
 Lista de artistas participantes
 
 Información detallada (género, bio, horario)
 
-Horarios
+--Horarios
 
 Calendario del festival
 
@@ -34,7 +34,7 @@ Escenarios y tiempos de presentación
 
 Blog / Noticias
 
-Artículos relacionados con el evento
+--Artículos relacionados con el evento
 
 Experiencias y recomendaciones
 
@@ -46,13 +46,13 @@ Precios de boletos
 
 Reglas del evento
 
-Contacto
+--Contacto
 
 Formulario de contacto
 
 Redes sociales
 
-Tecnologías Utilizadas
+-Tecnologías Utilizadas
 
 Frontend: HTML, CSS, JavaScript
 
@@ -70,7 +70,7 @@ Sistema de comentarios (opcional)
 
 Diseño responsive (adaptable a dispositivos móviles)
 
- Tipos de Usuario
+ -Tipos de Usuario
 
 Visitante: Puede navegar y consumir contenido
 
